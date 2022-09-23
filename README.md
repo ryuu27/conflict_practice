@@ -5,3 +5,4 @@ clone과 conflict 실습을 위한 레포지토리입니다.
 ```baxh
 git clon URL
 ```
+2. 로컬에서 commit을 하나 더 쌓은 다음에 remote로 push한다.
